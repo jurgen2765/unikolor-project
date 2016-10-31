@@ -1,0 +1,21 @@
+<code_scheme name="MySchema">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <Python>
+    <option name="SPACE_BEFORE_BACKSLASH" value="false" />
+    <option name="BLANK_LINE_AT_FILE_END" value="false" />
+    <option name="SPACE_BEFORE_NUMBER_SIGN" value="false" />
+    <option name="DICT_ALIGNMENT" value="1" />
+  </Python>
+  <XML>
+    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+  </XML>
+  <codeStyleSettings language="Python">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="SPACE_AROUND_RELATIONAL_OPERATORS" value="false" />
+    <option name="SPACE_AROUND_ADDITIVE_OPERATORS" value="false" />
+    <option name="SPACE_AROUND_MULTIPLICATIVE_OPERATORS" value="false" />
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
