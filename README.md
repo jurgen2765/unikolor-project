@@ -1,3 +1,3 @@
 # unikolor-project
-django framework project
+django project
 my first project
